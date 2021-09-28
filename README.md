@@ -11,7 +11,7 @@ snapshot of fixthefund.org
 - all of the files of the official site were expanded from it and pushed into this repo
 - the folder `public_html` was renamed to `docs`
 - a duplicate of the official site was published using GitHub pages
-- file sizes and dates are available in `datestamps.tsv` and [here]([200~https://docs.google.com/spreadsheets/d/1gdpoklzjoFb9ztInTK5vmnMCbCfs_htMW-FvLnkjpuo/edit?usp=sharing)
+- file sizes and dates are available in `datestamps.tsv` and [here](https://docs.google.com/spreadsheets/d/1gdpoklzjoFb9ztInTK5vmnMCbCfs_htMW-FvLnkjpuo/edit?usp=sharing)
 
 ## Duplicate website
 [https://b1conrad.github.io/fixthefund](https://b1conrad.github.io/fixthefund/)
