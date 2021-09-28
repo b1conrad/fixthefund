@@ -1,0 +1,126 @@
+
+/* NEW YORKER ARTICLES */
+
+/* body */
+body { background-color: rgb(102,102,102); 
+	margin-bottom: 0px; 
+	margin-left: 0px; 
+	margin-right: 0px; 
+	margin-top: 0px; 
+	scrollbar-arrow-color: rgb(224,0,55);
+	scrollbar-face-color: rgb(153,153,153); 
+	scrollbar-track-color: rgb(0,0,0);  } 
+
+/* containers */
+div { font-family: 'times new roman',times,serif; }
+div.content { padding: 12 24 12 18px; }
+p { margin: 10 0 0 0px; }
+
+/* header */
+div.contentheader { padding: 6 0 12 0px; }
+div.subsection { font-size: 1.2em; padding: 0 0 3 0px; }
+div.talksubsection { color: rgb(224,0,55); padding: 0 0 0 0px; }
+div.title { font-weight: 700; padding: 3 0 3 0px; }
+div.author { font-size: 0.9em; padding: 0 0 3 0px; }
+div.summary { font-family: arial,helvetica,verdana,san-serif; font-size: 0.8em; padding: 0 0 3 0px; }
+div.issuepublish { color: rgb(102,102,102); font-family: arial,helvetica,verdana,san-serif; font-size: 0.8em; padding: 6 0 0 0px; }
+
+/* content */
+div.subtitle { font-family: arial,helvetica,verdana,san-serif; font-size: 0.9em; font-weight: 700; }
+span.subtitle { font-family: arial,helvetica,verdana,san-serif; font-size: 0.9em; font-weight: 700; }
+p.descender:first-letter { font-size: 2.0em; }
+p.question { font-weight: 700; }
+p.answer { }
+p.quote { font-family: arial,helvetica,verdana,san-serif; font-size: 0.8em; }
+p.pullout { font-family: arial,helvetica,verdana,san-serif; font-size: 0.8em; }
+p.introduction { font-family: arial,helvetica,verdana,san-serif; font-size: 0.8em; padding: 10 0 10 0px; }
+p.poem { font-family: arial,helvetica,verdana,san-serif; font-size: 0.8em; }
+a { color: rgb(0,0,0); }
+div.sweeps1 a { color: rgb(255,255,255); text-decoration: underline; }
+
+/* forums */
+div.forumcontent { font-family: verdana,san-serif; font-size: 0.8em; padding: 12 24 0 18px; }
+
+/* previous pages */
+div.previousheader { padding: 6 0 12 0px; }
+div.previouscontent { padding: 12 24 12 18px; }
+div.previousunit { padding: 0 0 10 0px; }
+div.previoussubsection { color: rgb(224,0,55); font-size: 1.2em; }
+span.previoustitle { font-weight: 700; }
+span.previousauthor { }
+div.previoussummary { font-family: arial,helvetica,verdana,san-serif; font-size: 0.8em; }
+span.previousissue { color: rgb(102,102,102); font-family: arial,helvetica,san-serif; font-size: 0.8em; }
+span.previouspublish { color: rgb(102,102,102); font-family: arial,helvetica,san-serif; font-size: 0.8em; }
+
+/* image related classes */
+div.image { padding: 10 0 0 0px; }
+div.credit { color: rgb(102,102,102); font-family: arial,helvetica,verdana,san-serif; font-size: 0.8em; text-align: right; }
+div.caption { font-family: arial,helvetica,verdana,san-serif; font-size: 0.8em; }
+
+/* styling classes */
+span.bold { font-weight: 700; }
+span.italic { font-style: italic; }
+span.larger { font-size: 1.2em; }
+span.lowercase { text-transform: lowercase; }
+span.smaller { font-size: 0.8em; }
+span.smallcaps { font-size: 0.8em; text-transform: uppercase; }
+span.uppercase { text-transform: uppercase; }
+span.linethrough { text-decoration: line-through; }
+
+/* menuboxes */
+div.menubox { font-family: arial,helvetica,verdana,san-serif; font-size: 0.6em; padding: 5 5 0 5px; } 
+div.relatedlinks { padding: 2 0 3 0px; }
+div.serieslinks { padding: 2 0 3 0px; }
+div.anchoredlinks { padding: 2 0 3 0px; }
+span.relatedlinks { padding: 2 0 3 0px; }
+span.serieslinks { padding: 2 0 3 0px; }
+span.anchoredlinks { padding: 2 0 3 0px; }
+a.relatedlinks { color: rgb(224,0,55); font-family: arial,helvetica,verdana,san-serif; }
+a.relatedlinks:visited { color: rgb(224,0,55); }
+a.anchoredlinks { color: rgb(224,0,55); font-family: arial,helvetica,verdana,san-serif; }
+a.anchoredlinks:visited { color: rgb(224,0,55); }
+a.serieslinks { color: rgb(224,0,55); font-family: arial,helvetica,verdana,san-serif; }
+a.serieslinks:visited { color: rgb(224,0,55); }
+
+/* slideshows */
+div.slideshowcontent { font-size: 0.8em; padding: 12 24 12 18px; }
+div.popslideshowcontent { font-size: 0.8em; padding-top: 7px; padding-right: 20px; padding-bottom: 18px; padding-left: 20px; }
+div.slideshowlinks { font-family: arial,helvetica,verdana,san-serif; font-size: 0.7em; padding: 5 5 0 5px; }
+div.slideshowlink { padding: 2 0 3 0px; }
+div.slideshowcontrols { font-weight: 700; }
+a.slideshowlink { color: rgb(0,0,0); font-family: arial,helvetica,verdana,san-serif; text-decoration: none; }
+a.slideshowlink:hover { color: rgb(224,0,55); }
+
+div.slideshowunit { padding-top: 6; padding-right: 0px; padding-bottom: 8px; padding-left: 0px; } 
+div.slideshowimage { text-align: center; }
+
+div.slideshowtitle { font-weight: 700; padding: 4 0 0 0px; }
+div.slideshowauthor { padding: 4 0 0 0px; }
+div.slideshowcredit { color: rgb(102,102,102); font-family: arial,helvetica,verdana,san-serif; font-size: 0.8em; text-align: right; }
+div.slideshowsource { font-weight: 700; padding: 4 0 0 0px; }
+
+/* miscellaneous */
+div.popcontent { font-size: 0.8em; padding: 0 20 6 6px; }
+span.address { font-size: 0.9em; }
+div.date { color: rgb(255,255,255); font-family: arial,helvetica,verdana,san-serif; font-size: 0.7em; padding: 2 16 2 0px; }
+a.home { color: rgb(255,255,255); text-decoration: none; }
+div.covercaption { font-family: arial,helvetica,verdana,san-serif; font-size: 0.7em; padding: 2 7 0 0px; text-align: right; }
+div.contentfooter { padding: 7 0 0 0px; }
+div.footerauthor { font-style: italic; text-align: right; }
+div.footer { color: rgb(0,0,0); font-size: 0.7em; }
+div.sweeps1 { font-size: 0.7em; padding: 5 3 12 3px; text-align: center; }
+
+/* backgrounds */
+.white { background-color: rgb(255,255,255); }
+.grey { background-color: rgb(204,204,204); }
+.charcoal { background-color: rgb(101,101,101); }
+.black { background-color: rgb(0,0,0); }
+.blue { background-color: rgb(0,122,190); }
+.red { background-color: rgb(224,0,55); }
+
+/* submenus */
+#issue { position: absolute; left: 90; top: 140; visibility: hidden; }
+#goingson { position: absolute; left: 90; top: 170; visibility: hidden; }
+#critics { position: absolute; left: 90; top: 245; visibility: hidden; }
+#cartoons { position: absolute; left: 90; top: 370; visibility: hidden; }
+
